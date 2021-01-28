@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 [![Netlify Status](https://api.netlify.com/api/v1/badges/63521b78-612e-4a2f-a409-3fa8009e7f3b/deploy-status)](https://app.netlify.com/sites/frosty-perlman-9da1cb/deploys) &nbsp;<a href="https://twitter.com/intent/follow?screen_name=stackrole">
   <img src="https://img.shields.io/twitter/follow/stackrole.svg?label=Follow%20@Stackrole" alt="Follow @stackrole" />
 </a>
@@ -158,6 +159,8 @@ Feel free to ping [@stackrole](stackrole) for help regarding your JAMstack websi
 [twitter]: https://twitter.com/stackrole
 [custom-domain]: https://stackrole.com/adding-custom-domain-netlify
 =======
+=======
+>>>>>>> parent of 8c489a6... Saty lo ha roto
 # Prologue - Jekyll Theme
 
 [![Gem Version](https://badge.fury.io/rb/jekyll-theme-prologue.svg)](https://badge.fury.io/rb/jekyll-theme-prologue)
@@ -297,4 +300,7 @@ Credits:
 		jquery.scrollzer (@ajlkn)
 		Skel (skel.io)
 ```
+<<<<<<< HEAD
+>>>>>>> parent of 8c489a6... Saty lo ha roto
+=======
 >>>>>>> parent of 8c489a6... Saty lo ha roto
